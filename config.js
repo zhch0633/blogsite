@@ -1,0 +1,1 @@
+/var/lib/ghost/config.js
