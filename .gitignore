@@ -1,0 +1,13 @@
+node_modules/
+node_modules/.bin/bower
+*.DS_Store
+config.js
+*/package.json
+
+node_modules/sqlite3/node_modules/nan/package.json
+
+node_modules/sqlite3/node_modules/nan/package.json
+
+node_modules/sqlite3/lib/binding/node-v11-linux-x64/node_sqlite3.node
+
+content/data/ghost-dev.db
